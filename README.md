@@ -6,7 +6,8 @@ This project offers a curated collection of daily journal prompts aimed at inspi
 
 Source of Prompts: [365 Daily Journal Prompts - Project Hot Mess](https://projecthotmess.com/365-daily-journal-prompts/)
 
-Feel free to fork this repository and customize the prompts to suit your preferences and send to your own email.  
+Feel free to fork this repository and customize the prompts to suit your preferences and send to your own email.
+
 You can also contribute new prompts by submitting a pull request.
 
 ## GitHub Actions
