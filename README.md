@@ -1,6 +1,6 @@
 # Daily Journal Prompts
 
-This project offers a curated collection of daily journal prompts from [ProjectHotMess.com](https://projecthotmess.com/365-daily-journal-prompts/) aimed at inspiring meaningful reflection and personal growth. Each prompt encourages you to delve into your thoughts, emotions, and experiences, helping to nurture a consistent journaling habit.
+This project offers a curated collection of daily journal prompts from [Brillantio](https://brilliantio.com/365-journal-prompts/) aimed at inspiring meaningful reflection and personal growth. Each prompt encourages you to delve into your thoughts, emotions, and experiences, helping to nurture a consistent journaling habit.
 
 ![Journaling](https://media.istockphoto.com/id/1421993924/photo/creative-writing-at-home-by-female-hands-enjoying-a-calm-peaceful-day-off-indoors-woman.webp?s=2048x2048&w=is&k=20&c=qAO0ebkjT8kmKY8OTo1YIwXbyW0dn7i9oKX3vv00pMI=)
 
