@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
 
-      - name: Run a script
+      - name: Run script
         run: python ./main.py
         env:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
